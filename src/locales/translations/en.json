@@ -1,0 +1,5 @@
+{
+  "welcome": "Hello world",
+  "welcomeTo": "Hello {{name}}",
+  "content": "Content"
+}
